@@ -20,6 +20,20 @@ dan proyek ini menggunakan [Semantic Versioning](https://semver.org/spec/v2.0.0.
 
 ---
 
+## [0.2.0] - 2026-09-29
+
+### Added
+
+- Test Planning folder dengan 7 dokumen:
+  - Test Strategy
+  - Test Plan
+  - Test Estimation
+  - Entry & Exit Criteria
+  - Risk Register
+  - RACI Matrix
+
+---
+
 ## [0.1.0] - 2026-09-29
 
 ### Added
