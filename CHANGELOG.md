@@ -20,6 +20,22 @@ dan proyek ini menggunakan [Semantic Versioning](https://semver.org/spec/v2.0.0.
 
 ---
 
+## [0.3.0] - 2026-09-30
+
+### Added
+
+- Test Design folder dengan 4 dokumen:
+  - Test Scenarios (48 skenario, 6 modul)
+  - Test Data (6 user types, 6 produk, data checkout)
+  - Requirement Traceability Matrix (initial, 25 requirement)
+  - Folder README
+
+### Changed
+
+- RTM versi awal dibuat; kolom Test Case ID akan diisi di Tahap 3
+
+---
+
 ## [0.2.0] - 2026-09-29
 
 ### Added
